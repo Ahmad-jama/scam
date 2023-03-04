@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCrzxj2VPeV3jhR92slm5JIrtpTXStQwrU",
-    authDomain: "test-purpose-d8b53.firebaseapp.com",
-    projectId: "test-purpose-d8b53",
-    storageBucket: "test-purpose-d8b53.appspot.com",
-    messagingSenderId: "532038197276",
-    appId: "1:532038197276:web:402ff043f522a6343c7fd9"
+    apiKey: "AIzaSyCO1ygxexCgx5yLuctifMOXZWxtCGn3vuc",
+    authDomain: "nice-6d3b3.firebaseapp.com",
+    projectId: "nice-6d3b3",
+    storageBucket: "nice-6d3b3.appspot.com",
+    messagingSenderId: "814570297611",
+    appId: "1:814570297611:web:50dda0fb99d16a045aea0e"
   };
 firebase.initializeApp(firebaseConfig);
 
